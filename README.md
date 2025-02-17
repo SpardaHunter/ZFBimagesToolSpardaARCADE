@@ -1,3 +1,9 @@
+UPDATE:
+THE TWO APPLICATIONS ARE NOW INTEGRATED INTO ONE TOOL
+https://github.com/SpardaHunter/ZFBimagesToolSparda
+
+OLD VERSION:
+
 ![imagen](https://github.com/SpardaHunter/ZFBimagesToolSpardaARCADE/assets/155873668/d8689263-ec9f-431e-aeaf-bd430b1bf37d)
 
 
